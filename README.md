@@ -38,7 +38,7 @@ Simply add this [library jar](https://github.com/gavalian/groot/raw/master/jars/
 Java 1.8 or greater
 
 # Documentation
-Check out our [Wiki](https://github.com/gavalian/groot/wiki "GROOT Wiki")!
+Check out our [Wiki](https://github.com/SushantBahadure01/datavisulizationtool/wiki)!
 
 # Feature requests and contributions
-One of the best ways to contribute is to give us feature requests and bug reports on the [issues page](https://github.com/gavalian/groot/issues "GROOT Issues page")! 
+One of the best ways to contribute is to give us feature requests and bug reports on the [issues page](https://github.com/SushantBahadure01/datavisulizationtool/issues)! 
